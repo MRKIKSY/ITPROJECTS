@@ -34,7 +34,7 @@ function App() {
       Mr Kiksy Snake Game <GiSnake /></a>
         </button>
         <button className="icon-button">
-        <a href="https://temporarydiarynotesapp-osyuuxbja-mrkiksys-projects.vercel.app/s" target="_blank" rel="noopener noreferrer">
+        <a href="https://temporarydiarynotesapp.vercel.app/" target="_blank" rel="noopener noreferrer">
           Mr Kiksy Temporary  Notes Diary <GrNotes /></a>
         </button>
         <button className="icon-button">
@@ -49,7 +49,7 @@ function App() {
         </button>
 
         <button className="icon-button">
-        <a href="https://loginpagenext14-6jeq.vercel.app/register" target="_blank" rel="noopener noreferrer">
+       
           MR KIKSY React Js Search Bar that fetches data from a fake website <MdLogin/></a>
         </button>
 		
