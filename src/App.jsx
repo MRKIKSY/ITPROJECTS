@@ -48,11 +48,7 @@ function App() {
           MR KIKSY Next Js, Tailwind Css designed Login Page <MdLogin/></a>
         </button>
 
-        <button className="icon-button">
        
-          MR KIKSY React Js Search Bar that fetches data from a fake website <MdLogin/></a>
-        </button>
-		
 		
       </div>
 
