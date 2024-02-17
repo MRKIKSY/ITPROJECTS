@@ -6,6 +6,9 @@ import { GrNotes } from "react-icons/gr";
 import { FaShoppingBasket } from "react-icons/fa";
 import { CiCalculator2 } from "react-icons/ci";
 import { GiSnake } from "react-icons/gi";
+import { TbBoxMultiple0 } from "react-icons/tb";
+import { LiaHandRockSolid } from "react-icons/lia"
+import { FaDiceSix } from "react-icons/fa6";
 
 
 function App() {
@@ -23,7 +26,8 @@ function App() {
 
       <div className="icons-container">
         <button className="icon-button">
-          Typical Login Page <MdLogin />
+        <a href="https://loginpagenext14-6jeq.vercel.app/register" target="_blank" rel="noopener noreferrer">
+          Typical Next Js 14.0 Login Page <MdLogin /></a>
         </button>
         <button  className="icon-button">
 		<a href="https://mrkiksyquizapp.netlify.app/" target="_blank" rel="noopener noreferrer">
@@ -34,21 +38,27 @@ function App() {
       Mr Kiksy Snake Game <GiSnake /></a>
         </button>
         <button className="icon-button">
-        <a href="https://temporarydiarynotesapp.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <a href="https://temporarydiarynotesapp-osyuuxbja-mrkiksys-projects.vercel.app/s" target="_blank" rel="noopener noreferrer">
           Mr Kiksy Temporary  Notes Diary <GrNotes /></a>
         </button>
         <button className="icon-button">
-          Mr Kiksy Shopping App <FaShoppingBasket />
+        <a href="https://mrkiksyrolldicesimulator.netlify.app/" target="_blank" rel="noopener noreferrer">
+          Mr Kiksy Roll Dice Simulator for Kids  <FaDiceSix /></a>
         </button>
         <button className="icon-button">
-          Mr Kiksy Calculator App <CiCalculator2 />
+        <a href="https://mrkiksyloancalculator.netlify.app/" target="_blank" rel="noopener noreferrer">
+          Mr Kiksy Typical Loan  App  Calculator <CiCalculator2 /></a>
         </button>
         <button className="icon-button">
-        <a href="https://loginpagenext14-6jeq.vercel.app/register" target="_blank" rel="noopener noreferrer">
-          MR KIKSY Next Js, Tailwind Css designed Login Page <MdLogin/></a>
+        <a href="https://mrkiksyrockpaperscissors.netlify.app/" target="_blank" rel="noopener noreferrer">
+          MR KIKSY ROCK PAPER SCISSORS Kids Game<LiaHandRockSolid /></a>
         </button>
 
-       
+        <button className="icon-button">
+        <a href="https://mrkiksymultiplicationtable.netlify.app/" target="_blank" rel="noopener noreferrer">
+          MR KIKSY Multiplication App for Kids  <TbBoxMultiple0 /></a>
+        </button>
+		
 		
       </div>
 
