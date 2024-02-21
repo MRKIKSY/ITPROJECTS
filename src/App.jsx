@@ -10,7 +10,7 @@ import { LiaHandRockSolid } from "react-icons/lia"
 import { FaDiceSix } from "react-icons/fa6";
 import { LiaStickyNoteSolid } from "react-icons/lia";
 import { RiFileWord2Line } from "react-icons/ri";
-
+import { BsTranslate } from "react-icons/bs";
 
 function App() {
   const currentDate = new Date().toLocaleString(); // Get current date and time
@@ -70,6 +70,12 @@ function App() {
           MR KIKSY Project Manager To Do List  <LiaStickyNoteSolid /></a>
         </button>
 		
+        <button className="icon-button">
+        <a href="https://mrkiksytranslationapplication.netlify.app/" target="_blank" rel="noopener noreferrer">
+          MR KIKSY Language App <BsTranslate /></a>
+        </button>
+		
+        <BsTranslate />
       </div>
 
       <footer>
