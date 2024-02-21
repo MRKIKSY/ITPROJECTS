@@ -38,7 +38,7 @@ function App() {
       Mr Kiksy Snake Game <GiSnake /></a>
         </button>
         <button className="icon-button">
-        <a href="https://temporarydiarynotesapp-osyuuxbja-mrkiksys-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <a href="https://temporarydiarynotesapp.vercel.app/" target="_blank" rel="noopener noreferrer">
           Mr Kiksy Temporary  Notes Diary <GrNotes /></a>
         </button>
         <button className="icon-button">
