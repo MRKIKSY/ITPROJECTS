@@ -75,7 +75,7 @@ function App() {
           MR KIKSY Language App <BsTranslate /></a>
         </button>
 		
-        <BsTranslate />
+    
       </div>
 
       <footer>
