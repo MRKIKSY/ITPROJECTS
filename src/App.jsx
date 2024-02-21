@@ -3,12 +3,13 @@ import './App.css'; // You can create this CSS file for styling if needed
 import { MdLogin } from "react-icons/md";
 import { MdQuiz } from "react-icons/md";
 import { GrNotes } from "react-icons/gr";
-import { FaShoppingBasket } from "react-icons/fa";
 import { CiCalculator2 } from "react-icons/ci";
 import { GiSnake } from "react-icons/gi";
 import { TbBoxMultiple0 } from "react-icons/tb";
 import { LiaHandRockSolid } from "react-icons/lia"
 import { FaDiceSix } from "react-icons/fa6";
+import { LiaStickyNoteSolid } from "react-icons/lia";
+import { RiFileWord2Line } from "react-icons/ri";
 
 
 function App() {
@@ -51,14 +52,23 @@ function App() {
         </button>
         <button className="icon-button">
         <a href="https://mrkiksyrockpaperscissors.netlify.app/" target="_blank" rel="noopener noreferrer">
-          MR Kiksy Rock Papers Scissors Kids Game<LiaHandRockSolid /></a>
+          MR KIKSY ROCK PAPER SCISSORS Kids Game<LiaHandRockSolid /></a>
         </button>
 
         <button className="icon-button">
         <a href="https://mrkiksymultiplicationtable.netlify.app/" target="_blank" rel="noopener noreferrer">
           MR KIKSY Multiplication App for Kids  <TbBoxMultiple0 /></a>
         </button>
-		
+
+        <button className="icon-button">
+        <a href="https://mrkiksykidswordsscramblegame.netlify.app/" target="_blank" rel="noopener noreferrer">
+          MR KIKSY Scramble Kids Game App for Kids  <RiFileWord2Line /></a>
+        </button>
+
+        <button className="icon-button">
+        <a href="https://mrkiksyprojectmanagertodolistapp.netlify.app/" target="_blank" rel="noopener noreferrer">
+          MR KIKSY Project Manager To Do List  <LiaStickyNoteSolid /></a>
+        </button>
 		
       </div>
 
