@@ -11,6 +11,11 @@ import { FaDiceSix } from "react-icons/fa6";
 import { LiaStickyNoteSolid } from "react-icons/lia";
 import { RiFileWord2Line } from "react-icons/ri";
 import { BsTranslate } from "react-icons/bs";
+import { MdManageSearch } from "react-icons/md";
+import { MdMovieEdit } from "react-icons/md";
+import { FiMousePointer } from "react-icons/fi";
+import { FaRegCreditCard } from "react-icons/fa6";
+import { GiCubes } from "react-icons/gi";
 
 function App() {
   const currentDate = new Date().toLocaleString(); // Get current date and time
@@ -74,6 +79,29 @@ function App() {
         <a href="https://mrkiksytranslationapplication.netlify.app/" target="_blank" rel="noopener noreferrer">
           MR KIKSY Language App <BsTranslate /></a>
         </button>
+        <button className="icon-button">
+        <a href="https://searchfilterdesign.netlify.app/" target="_blank" rel="noopener noreferrer">
+          Vanilla Javascript Search Filter  <MdManageSearch /></a>
+        </button>
+        <button className="icon-button">
+        <a href="https://moviewebsitecssdesign.netlify.app/" target="_blank" rel="noopener noreferrer">
+          Frontend  Movie Display CSS Site <MdMovieEdit /></a>
+        </button>
+        <button className="icon-button">
+        <a href="https://hovereffectwithcssonly.netlify.app/" target="_blank" rel="noopener noreferrer">
+           Frontend CSS  Hover Effect design  <FiMousePointer /></a>
+        </button>
+        <button className="icon-button">
+        <a href="https://credircarddesign.netlify.app/" target="_blank" rel="noopener noreferrer">
+          Fontend Credit Card design <FaRegCreditCard /></a>
+        </button>
+        <button className="icon-button">
+        <a href="https://mrkiksycubsmashingkidsgame.netlify.app/" target="_blank" rel="noopener noreferrer">
+          MR KIKSY Kids Smashing Cube Kids Game <GiCubes /></a>
+        </button>
+
+
+
 		
     
       </div>
