@@ -53,7 +53,7 @@ function App() {
       
         
         <a href="https://mrkiksychessgame.netlify.app/" target="_blank" rel="noopener noreferrer">
-          CHESS <MdLogin />  <br></br>       </a>
+          Chess <MdLogin />  <br></br>       </a>
            
         </button>
     
