@@ -95,7 +95,7 @@ function App() {
         </button>
         <button className="icon-button">
         <a href="https://mrkiksyrockpaperscissors.netlify.app/" target="_blank" rel="noopener noreferrer">
-          MR KIKSY ROCK PAPER SCISSORS Kids Game<LiaHandRockSolid />  <br></br>
+          MR KIKSY Rock Paper Scissors Kids Game<LiaHandRockSolid />  <br></br>
           
          
           </a>
