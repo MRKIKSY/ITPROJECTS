@@ -189,14 +189,7 @@ function App() {
       
   </a>
       
-        </button>
-        <button  className="icon-button"  >
-
-<a href="https://mrkiksyhradminsystem.netlify.app/" target="_blank" rel="noopener noreferrer">  HR Admin System <MdQuiz />   <br></br>
-  
-</a>
-  
-    </button>
+     
 
     <button  className="icon-button"  >
 
