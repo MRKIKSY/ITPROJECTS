@@ -192,7 +192,7 @@ function App() {
         </button>
         <button  className="icon-button"  >
 
-<a href="https://mrkiksyhradminsystem.netlify.app/" target="_blank" rel="noopener noreferrer">  HR ADMIN SYSTEM  <MdQuiz />   <br></br>
+<a href="https://mrkiksyhradminsystem.netlify.app/" target="_blank" rel="noopener noreferrer">  HR Admin System <MdQuiz />   <br></br>
   
 </a>
   
@@ -200,7 +200,7 @@ function App() {
 
     <button  className="icon-button"  >
 
-<a href="https://mrkiksywebsitedevelopmentclass.vercel.app/" target="_blank" rel="noopener noreferrer">  PERSONAL EDUCATIONAL WEBSITE  <MdQuiz />   <br></br>
+<a href="https://mrkiksywebsitedevelopmentclass.vercel.app/" target="_blank" rel="noopener noreferrer">  Personal Educational Website  <MdQuiz />   <br></br>
   
 </a>
   
