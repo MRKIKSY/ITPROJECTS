@@ -52,7 +52,7 @@ function App() {
         <button className="icon-button">
       
         
-        <a href="https://frontend-react-js-login-page.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <a href="https://mrkiksyfrontendreactjsapp.netlify.app/" target="_blank" rel="noopener noreferrer">
           Typical React JS  Login Page <MdLogin />  <br></br>    </a>
       
            
