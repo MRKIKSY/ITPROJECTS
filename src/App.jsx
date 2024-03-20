@@ -19,6 +19,7 @@ import { FaRegCreditCard } from "react-icons/fa6";
 import { GiCubes } from "react-icons/gi";
 import { LiaBookSolid } from "react-icons/lia";
 import { FaMoneyBillTrendUp } from "react-icons/fa6";
+import { AiOutlineLogin } from "react-icons/ai";
 
 function App() {
   const currentDate = new Date().toLocaleString(); // Get current date and time
@@ -48,6 +49,15 @@ function App() {
       
            
         </button>
+        <button className="icon-button">
+      
+        
+        <a href="https://frontend-react-js-login-page.vercel.app/" target="_blank" rel="noopener noreferrer">
+          Typical React JS  Login Page <MdLogin />  <br></br>    </a>
+      
+           
+        </button>
+
 
         <button className="icon-button">
       
