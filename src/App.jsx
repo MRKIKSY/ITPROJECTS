@@ -33,6 +33,7 @@ function App() {
          (MR KIKSY )<br></br>IT PROJECTS</h1>
         <h3> Intermediate proficiency in Javascript, HTML, CSS. Good knowledge of <br></br>
           Frameworks such as Tailwind CSS, Bootstrap, React Js, Next Js.
+	  Mongo DB, Express, React Js, and Node JS
         </h3>
         <a href="https://github.com/MRKIKSY?tab=repositories" target="_blank" rel="noopener noreferrer">
           GIT HUB REPOSITORY:-<br></br><h8>https://github.com/MRKIKSY?tab=repositories</h8> <br></br>    
