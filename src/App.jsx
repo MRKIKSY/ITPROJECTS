@@ -20,6 +20,8 @@ import { GiCubes } from "react-icons/gi";
 import { LiaBookSolid } from "react-icons/lia";
 import { FaMoneyBillTrendUp } from "react-icons/fa6";
 import { AiOutlineLogin } from "react-icons/ai";
+import { SiGnuprivacyguard } from "react-icons/si";
+import { GrStorage } from "react-icons/gr";
 
 function App() {
   const currentDate = new Date().toLocaleString(); // Get current date and time
@@ -49,10 +51,11 @@ function App() {
       
            
         </button>
+        
         <button className="icon-button">
       
         
-        <a href="https://mrkiksyfrontendreactjsapp.netlify.app/" target="_blank" rel="noopener noreferrer">
+        <a href="https://frontend-react-js-login-page.vercel.app/" target="_blank" rel="noopener noreferrer">
           Typical React JS  Login Page <MdLogin />  <br></br>    </a>
       
            
@@ -175,6 +178,15 @@ function App() {
           </a>
       
         </button>
+        <button className="icon-button">
+        <a href="https://mrkiksyfrontendreactjsapp.netlify.app/" target="_blank" rel="noopener noreferrer"> Frontend Logo Sign In Page <SiGnuprivacyguard />  
+
+          <br></br>
+          
+          </a>
+      
+        </button>
+       
 
       </div>
 <div></div>
@@ -183,6 +195,27 @@ function App() {
       </section>
 
       <div className="icons-container">
+
+      <button className="icon-button">
+      
+        
+      <a href="https://fire-c392.onrender.com/" target="_blank" rel="noopener noreferrer">
+        File Management Storage System <GrStorage />  <br></br>       </a>
+         
+      </button>
+
+      <button className="icon-button">
+      
+        
+      <a href="https://full-stack-supabase-user-management.onrender.com/#" target="_blank" rel="noopener noreferrer">
+        Website Learning Download Class <LiaBookSolid/>  <br></br>       </a>
+         
+      </button>
+
+ 
+
+
+
         <button className="icon-button">
       
         
@@ -192,14 +225,7 @@ function App() {
         </button>
     
        
-        <button  className="icon-button"  >
-
-		<a href="https://investmentcalculatorreactjs.netlify.app/" target="_blank" rel="noopener noreferrer">
-      Investment App <FaMoneyBillTrendUp/>   <br></br>
-      
-  </a>
-      
-     </button>
+    
 
     <button  className="icon-button"  >
 
