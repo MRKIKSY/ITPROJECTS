@@ -31,7 +31,8 @@ function App() {
       <header className="page-header">
         <h1> SAMUEL AKINOLA ELUYEFA<br></br>
          (MR KIKSY )<br></br> M.E.R.N STACK/FULL STACK DEVELOPER </h1>
-        <h3> Intermediate proficiency in Javascript, HTML, CSS. Good knowledge of <br></br>
+        <h3> Intermediate proficiency in Javascript, HTML & CSS.  <br></br>
+		
          Sound knowledge of Frontend Frameworks such as Tailwind CSS, Bootstrap, React Js, Next Js.<br></br>
 		
 	 Intermediate of Backend Technologies such as  Mongo DB, Express, React Js, and Node JS <br></br>
