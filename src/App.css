@@ -1,9 +1,12 @@
+/* App.css */
+
 body {
   margin: 0;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 80vh; /* Adjust the minimum height as needed */
+  background-color: #e0f7fa; /* Light sky blue background color */
 }
 
 .App {
