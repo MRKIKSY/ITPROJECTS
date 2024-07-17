@@ -238,6 +238,49 @@ function App() {
 </a>
   
     </button>
+	       <button  className="icon-button"  >
+
+<a href="https://cyptopricechecker.onrender.com/" target="_blank" rel="noopener noreferrer">  Personal Cyptocurrency Price Checker  <MdQuiz />   <br></br>
+  
+</a>
+  
+    </button>
+	       <button  className="icon-button"  >
+
+<a href="https://fire-c392.onrender.com/" target="_blank" rel="noopener noreferrer">  Storage and File Management System   <MdQuiz />   <br></br>
+  
+</a>
+  
+    </button>
+	       <button  className="icon-button"  >
+
+<a href="https://frontend-bookstore-react.onrender.com/" target="_blank" rel="noopener noreferrer">  Bookstore Application  <MdQuiz />   <br></br>
+  
+</a>
+  
+    </button>
+	       <button  className="icon-button"  >
+
+<a href="https://todolistfrontend-mxac.onrender.com/" target="_blank" rel="noopener noreferrer">  Full Stack To do list App  <MdQuiz />   <br></br>
+  
+</a>
+  
+    </button>
+	       <button  className="icon-button"  >
+
+<a href="https://frontendjoblistingwebstite.onrender.com/" target="_blank" rel="noopener noreferrer">  Job Listing Website   <MdQuiz />   <br></br>
+  
+</a>
+  
+    </button>
+	       <button  className="icon-button"  >
+
+<a href="https://frontendcontactmanagementsystem.onrender.com/" target="_blank" rel="noopener noreferrer"> Contact Management System  <MdQuiz />   <br></br>
+  
+</a>
+  
+    </button>
+	      
  
 	
         
